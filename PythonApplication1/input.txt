@@ -1,0 +1,7 @@
+this is a input 
+
+now I want to change this number in this text
+
+the number is 678
+
+this is the end 
