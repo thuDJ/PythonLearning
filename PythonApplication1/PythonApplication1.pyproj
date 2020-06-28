@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>b373e567-511a-4e61-bec3-8ec25f051ea5</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>numpytest.py</StartupFile>
+    <StartupFile>matplot.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,6 +21,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="matplot.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="numpytest.py">
       <SubType>Code</SubType>
     </Compile>
